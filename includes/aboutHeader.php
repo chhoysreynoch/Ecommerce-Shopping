@@ -1,8 +1,8 @@
+<!-- Header -->
 <header class="header-v4">
 		<!-- Header desktop -->
 		<div class="container-menu-desktop">
-
-            <!-- Topbar -->
+			<!-- Topbar -->
 			<div class="top-bar">
 				<div class="content-topbar flex-sb-m h-full container">
 					<div class="left-top-bar">
@@ -44,7 +44,7 @@
 								<a href="index.php">Home</a>
 							</li>
 
-							<li class="active-menu">
+							<li>
 								<a href="product.php">Shop</a>
 							</li>
 
@@ -52,7 +52,7 @@
 								<a href="blog.php">Blog</a>
 							</li>
 
-							<li>
+							<li class="active-menu">
 								<a href="about.php">About</a>
 							</li>
 
