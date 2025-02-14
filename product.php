@@ -1,27 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include "includes/head.php" ?>
-
 <body class="animsition">
 	
 	<!-- Header -->
-	 <?php include "includes/header.php" ?>
+	<?php include "includes/productheader.php" ?>
+
 	<!-- Cart -->
 	<?php include "includes/cart.php" ?>
-
-		
-
-	<!-- Slider -->
-	<?php include "includes/slider.php" ?>
-
-
-	<!-- Banner -->
-	<?php include "includes/banner.php" ?>
-
-
+	
 	<!-- Product -->
 	<?php include "includes/product.php" ?>
-
+		
 
 	<!-- Footer -->
 	<?php include "includes/footer.php" ?>
@@ -36,6 +26,5 @@
 
 	<!-- Modal1 -->
 	<?php include "includes/modal.php" ?>
-
 </body>
 </html>
